@@ -1,5 +1,5 @@
 #this is the main branch
-#how branching actually work on git
+#how branching actually work fgghjg
 
 
 #now I am working on fiture1 to check branching
